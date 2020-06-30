@@ -138,7 +138,7 @@ defmodule Logflare.Mixfile do
       # Telemetry
       {:telemetry, "~> 0.4.0"},
       {:telemetry_poller, "0.4.0"},
-      {:telemetry_metrics, "~> 0.4.0"},
+      {:telemetry_metrics, "~> 0.5.0"},
 
       # ETS
       {:ets, "~> 0.8.0"},
